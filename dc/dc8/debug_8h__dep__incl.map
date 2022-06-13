@@ -1,0 +1,11 @@
+<map id="include/ruby/debug.h" name="include/ruby/debug.h">
+<area shape="rect" id="node1" title=" " alt="" coords="394,5,551,32"/>
+<area shape="rect" id="node2" href="$d8/d16/gc_8c_source.html" title=" " alt="" coords="5,87,52,114"/>
+<area shape="rect" id="node3" href="$da/d59/gems_2src_2debug_2ext_2debug_2debug_8c_source.html" title=" " alt="" coords="77,80,223,121"/>
+<area shape="rect" id="node4" href="$d7/d5a/mjit__worker_8c_source.html" title=" " alt="" coords="248,87,351,114"/>
+<area shape="rect" id="node5" href="$d3/de7/thread_8c_source.html" title=" " alt="" coords="375,87,448,114"/>
+<area shape="rect" id="node6" href="$d6/d5a/transient__heap_8c_source.html" title=" " alt="" coords="472,87,596,114"/>
+<area shape="rect" id="node7" href="$d8/d73/vm__backtrace_8c_source.html" title=" " alt="" coords="620,87,736,114"/>
+<area shape="rect" id="node8" href="$dc/d80/vm__trace_8c_source.html" title=" " alt="" coords="761,87,849,114"/>
+<area shape="rect" id="node9" href="$dc/d1f/yjit_8c_source.html" title=" " alt="" coords="873,87,923,114"/>
+</map>

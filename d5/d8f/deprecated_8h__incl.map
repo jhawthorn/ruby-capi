@@ -1,0 +1,19 @@
+<map id="include/ruby/internal/attr/deprecated.h" name="include/ruby/internal/attr/deprecated.h">
+<area shape="rect" id="node1" title="Defines RBIMPL_ATTR_DEPRECATED." alt="" coords="502,5,655,47"/>
+<area shape="rect" id="node2" href="$dc/db4/compiler__since_8h.html" title="Defines RBIMPL_COMPILER_SINCE." alt="" coords="421,273,584,315"/>
+<area shape="rect" id="node10" href="$d3/d7c/attribute_8h.html" title="Defines RBIMPL_HAS_ATTRIBUTE." alt="" coords="313,102,516,129"/>
+<area shape="rect" id="node13" href="$d8/d12/c__attribute_8h.html" title="Defines RBIMPL_HAS_C_ATTRIBUTE." alt="" coords="641,95,783,136"/>
+<area shape="rect" id="node14" href="$d8/d8d/cpp__attribute_8h.html" title="Defines RBIMPL_HAS_CPP_ATTRIBUTE." alt="" coords="124,184,281,225"/>
+<area shape="rect" id="node15" href="$d4/d58/declspec__attribute_8h.html" title="Defines RBIMPL_HAS_DECLSPEC_ATTRIBUTE." alt="" coords="591,184,779,225"/>
+<area shape="rect" id="node16" href="$d8/d3b/extension_8h.html" title="Defines RBIMPL_HAS_EXTENSION." alt="" coords="807,102,1014,129"/>
+<area shape="rect" id="node3" href="$df/dec/compiler__is_8h.html" title="Defines RBIMPL_COMPILER_IS." alt="" coords="257,363,447,389"/>
+<area shape="rect" id="node4" href="$d2/d6e/apple_8h_source.html" title=" " alt="" coords="263,616,425,657"/>
+<area shape="rect" id="node5" href="$de/dbb/clang_8h_source.html" title=" " alt="" coords="263,527,425,568"/>
+<area shape="rect" id="node6" href="$d4/d99/gcc_8h_source.html" title=" " alt="" coords="212,437,375,479"/>
+<area shape="rect" id="node7" href="$d5/d80/intel_8h_source.html" title=" " alt="" coords="25,527,188,568"/>
+<area shape="rect" id="node8" href="$d4/dac/msvc_8h_source.html" title=" " alt="" coords="25,437,188,479"/>
+<area shape="rect" id="node9" href="$da/d2d/sunpro_8h_source.html" title=" " alt="" coords="500,437,663,479"/>
+<area shape="rect" id="node11" href="$db/d16/config_8h_source.html" title=" " alt="" coords="306,191,465,218"/>
+<area shape="rect" id="node12" title=" " alt="" coords="291,281,397,307"/>
+<area shape="rect" id="node17" href="$d2/d74/feature_8h.html" title="Defines RBIMPL_HAS_FEATURE." alt="" coords="814,191,1007,218"/>
+</map>

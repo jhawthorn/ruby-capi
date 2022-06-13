@@ -1,0 +1,13 @@
+<map id="include/ruby/internal/has/builtin.h" name="include/ruby/internal/has/builtin.h">
+<area shape="rect" id="node1" title="Defines RBIMPL_HAS_BUILTIN." alt="" coords="163,5,317,47"/>
+<area shape="rect" id="node2" href="$db/d16/config_8h_source.html" title=" " alt="" coords="102,95,261,121"/>
+<area shape="rect" id="node4" href="$dc/db4/compiler__since_8h.html" title="Defines RBIMPL_COMPILER_SINCE." alt="" coords="217,169,380,211"/>
+<area shape="rect" id="node3" title=" " alt="" coords="87,177,193,203"/>
+<area shape="rect" id="node5" href="$df/dec/compiler__is_8h.html" title="Defines RBIMPL_COMPILER_IS." alt="" coords="203,259,394,285"/>
+<area shape="rect" id="node6" href="$d2/d6e/apple_8h_source.html" title=" " alt="" coords="311,512,473,553"/>
+<area shape="rect" id="node7" href="$de/dbb/clang_8h_source.html" title=" " alt="" coords="192,423,355,464"/>
+<area shape="rect" id="node8" href="$d4/d99/gcc_8h_source.html" title=" " alt="" coords="277,333,440,375"/>
+<area shape="rect" id="node9" href="$d5/d80/intel_8h_source.html" title=" " alt="" coords="5,423,168,464"/>
+<area shape="rect" id="node10" href="$d4/dac/msvc_8h_source.html" title=" " alt="" coords="40,333,203,375"/>
+<area shape="rect" id="node11" href="$da/d2d/sunpro_8h_source.html" title=" " alt="" coords="515,333,677,375"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="include/ruby/internal/has/cpp_attribute.h" name="include/ruby/internal/has/cpp_attribute.h">
+<area shape="rect" id="node1" title="Defines RBIMPL_HAS_CPP_ATTRIBUTE." alt="" coords="221,5,374,47"/>
+<area shape="rect" id="node2" href="$df/dec/compiler__is_8h.html" title="Defines RBIMPL_COMPILER_IS." alt="" coords="202,184,393,211"/>
+<area shape="rect" id="node9" href="$dc/db4/compiler__since_8h.html" title="Defines RBIMPL_COMPILER_SINCE." alt="" coords="276,95,439,136"/>
+<area shape="rect" id="node3" href="$d2/d6e/apple_8h_source.html" title=" " alt="" coords="311,437,473,479"/>
+<area shape="rect" id="node4" href="$de/dbb/clang_8h_source.html" title=" " alt="" coords="192,348,355,389"/>
+<area shape="rect" id="node5" href="$d4/d99/gcc_8h_source.html" title=" " alt="" coords="276,259,439,300"/>
+<area shape="rect" id="node6" href="$d5/d80/intel_8h_source.html" title=" " alt="" coords="5,348,168,389"/>
+<area shape="rect" id="node7" href="$d4/dac/msvc_8h_source.html" title=" " alt="" coords="39,259,201,300"/>
+<area shape="rect" id="node8" href="$da/d2d/sunpro_8h_source.html" title=" " alt="" coords="513,259,676,300"/>
+</map>

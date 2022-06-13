@@ -1,0 +1,23 @@
+<map id="include/ruby/internal/xmalloc.h" name="include/ruby/internal/xmalloc.h">
+<area shape="rect" id="node1" title="Declares ruby_xmalloc()." alt="" coords="468,5,621,47"/>
+<area shape="rect" id="node2" href="$db/d16/config_8h_source.html" title=" " alt="" coords="721,281,880,307"/>
+<area shape="rect" id="node12" href="$d8/ddc/alloc__size_8h.html" title="Defines RBIMPL_ATTR_ALLOC_SIZE." alt="" coords="479,95,611,136"/>
+<area shape="rect" id="node14" href="$db/d81/nodiscard_8h.html" title="Defines RBIMPL_ATTR_NODISCARD." alt="" coords="635,95,767,136"/>
+<area shape="rect" id="node17" href="$db/d01/noexcept_8h.html" title="Defines RBIMPL_ATTR_NOEXCEPT." alt="" coords="5,95,137,136"/>
+<area shape="rect" id="node19" href="$d8/dbd/restrict_8h.html" title="Defines RBIMPL_ATTR_RESTRICT." alt="" coords="161,95,293,136"/>
+<area shape="rect" id="node20" href="$d6/db2/returns__nonnull_8h.html" title="Defines RBIMPL_ATTR_RETURNS_NONNULL." alt="" coords="317,95,455,136"/>
+<area shape="rect" id="node21" href="$db/de3/dllexport_8h.html" title="Tweaking visibility of C variables/functions." alt="" coords="842,191,1018,218"/>
+<area shape="rect" id="node3" title=" " alt="" coords="747,370,854,397"/>
+<area shape="rect" id="node4" href="$dc/db4/compiler__since_8h.html" title="Defines RBIMPL_COMPILER_SINCE." alt="" coords="398,363,561,404"/>
+<area shape="rect" id="node5" href="$df/dec/compiler__is_8h.html" title="Defines RBIMPL_COMPILER_IS." alt="" coords="516,452,707,479"/>
+<area shape="rect" id="node6" href="$d2/d6e/apple_8h_source.html" title=" " alt="" coords="497,705,659,747"/>
+<area shape="rect" id="node7" href="$de/dbb/clang_8h_source.html" title=" " alt="" coords="497,616,659,657"/>
+<area shape="rect" id="node8" href="$d4/d99/gcc_8h_source.html" title=" " alt="" coords="285,527,447,568"/>
+<area shape="rect" id="node9" href="$d5/d80/intel_8h_source.html" title=" " alt="" coords="310,616,473,657"/>
+<area shape="rect" id="node10" href="$d4/dac/msvc_8h_source.html" title=" " alt="" coords="471,527,634,568"/>
+<area shape="rect" id="node11" href="$da/d2d/sunpro_8h_source.html" title=" " alt="" coords="759,527,922,568"/>
+<area shape="rect" id="node13" href="$d3/d7c/attribute_8h.html" title="Defines RBIMPL_HAS_ATTRIBUTE." alt="" coords="349,191,551,218"/>
+<area shape="rect" id="node15" href="$d8/d12/c__attribute_8h.html" title="Defines RBIMPL_HAS_C_ATTRIBUTE." alt="" coords="575,184,717,225"/>
+<area shape="rect" id="node16" href="$d8/d8d/cpp__attribute_8h.html" title="Defines RBIMPL_HAS_CPP_ATTRIBUTE." alt="" coords="533,273,690,315"/>
+<area shape="rect" id="node18" href="$d2/d74/feature_8h.html" title="Defines RBIMPL_HAS_FEATURE." alt="" coords="80,191,273,218"/>
+</map>

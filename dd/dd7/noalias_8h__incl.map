@@ -1,0 +1,12 @@
+<map id="include/ruby/internal/attr/noalias.h" name="include/ruby/internal/attr/noalias.h">
+<area shape="rect" id="node1" title="Defines RBIMPL_ATTR_NOALIAS." alt="" coords="222,5,375,47"/>
+<area shape="rect" id="node2" href="$dc/db4/compiler__since_8h.html" title="Defines RBIMPL_COMPILER_SINCE." alt="" coords="217,184,380,225"/>
+<area shape="rect" id="node10" href="$d4/d58/declspec__attribute_8h.html" title="Defines RBIMPL_HAS_DECLSPEC_ATTRIBUTE." alt="" coords="271,95,459,136"/>
+<area shape="rect" id="node3" href="$df/dec/compiler__is_8h.html" title="Defines RBIMPL_COMPILER_IS." alt="" coords="203,273,394,300"/>
+<area shape="rect" id="node4" href="$d2/d6e/apple_8h_source.html" title=" " alt="" coords="311,527,473,568"/>
+<area shape="rect" id="node5" href="$de/dbb/clang_8h_source.html" title=" " alt="" coords="192,437,355,479"/>
+<area shape="rect" id="node6" href="$d4/d99/gcc_8h_source.html" title=" " alt="" coords="277,348,440,389"/>
+<area shape="rect" id="node7" href="$d5/d80/intel_8h_source.html" title=" " alt="" coords="5,437,168,479"/>
+<area shape="rect" id="node8" href="$d4/dac/msvc_8h_source.html" title=" " alt="" coords="40,348,203,389"/>
+<area shape="rect" id="node9" href="$da/d2d/sunpro_8h_source.html" title=" " alt="" coords="515,348,677,389"/>
+</map>

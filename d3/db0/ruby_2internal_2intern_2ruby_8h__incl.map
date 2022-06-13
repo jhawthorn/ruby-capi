@@ -1,0 +1,33 @@
+<map id="include/ruby/internal/intern/ruby.h" name="include/ruby/internal/intern/ruby.h">
+<area shape="rect" id="node1" title="Process&#45;global APIs." alt="" coords="994,5,1147,47"/>
+<area shape="rect" id="node2" href="$de/d80/nonnull_8h.html" title="Defines RBIMPL_ATTR_NONNULL." alt="" coords="1005,169,1137,211"/>
+<area shape="rect" id="node14" href="$db/de3/dllexport_8h.html" title="Tweaking visibility of C variables/functions." alt="" coords="1149,333,1325,360"/>
+<area shape="rect" id="node15" href="$d4/d3f/value_8h.html" title="Defines VALUE and ID." alt="" coords="639,95,793,121"/>
+<area shape="rect" id="node3" href="$d3/d7c/attribute_8h.html" title="Defines RBIMPL_HAS_ATTRIBUTE." alt="" coords="953,505,1156,531"/>
+<area shape="rect" id="node4" href="$db/d16/config_8h_source.html" title=" " alt="" coords="642,594,801,621"/>
+<area shape="rect" id="node6" href="$dc/db4/compiler__since_8h.html" title="Defines RBIMPL_COMPILER_SINCE." alt="" coords="412,676,575,717"/>
+<area shape="rect" id="node5" title=" " alt="" coords="668,683,775,710"/>
+<area shape="rect" id="node7" href="$df/dec/compiler__is_8h.html" title="Defines RBIMPL_COMPILER_IS." alt="" coords="1078,765,1269,792"/>
+<area shape="rect" id="node8" href="$d2/d6e/apple_8h_source.html" title=" " alt="" coords="940,1019,1103,1060"/>
+<area shape="rect" id="node9" href="$de/dbb/clang_8h_source.html" title=" " alt="" coords="821,929,984,971"/>
+<area shape="rect" id="node10" href="$d4/d99/gcc_8h_source.html" title=" " alt="" coords="847,840,1009,881"/>
+<area shape="rect" id="node11" href="$d5/d80/intel_8h_source.html" title=" " alt="" coords="1059,929,1221,971"/>
+<area shape="rect" id="node12" href="$d4/dac/msvc_8h_source.html" title=" " alt="" coords="1033,840,1196,881"/>
+<area shape="rect" id="node13" href="$da/d2d/sunpro_8h_source.html" title=" " alt="" coords="1321,840,1484,881"/>
+<area shape="rect" id="node16" href="$d6/d78/include_2ruby_2internal_2static__assert_8h.html" title="Defines RBIMPL_STATIC_ASSERT." alt="" coords="299,169,440,211"/>
+<area shape="rect" id="node30" href="$d7/db0/backward_22_2long__long_8h.html" title="Defines old LONG_LONG." alt="" coords="669,497,827,539"/>
+<area shape="rect" id="node31" href="$d9/d86/limits_8h_source.html" title=" " alt="" coords="700,415,876,442"/>
+<area shape="rect" id="node17" href="$dc/da7/assert_8h.html" title=" " alt="" coords="452,259,524,285"/>
+<area shape="rect" id="node28" href="$d8/d3b/extension_8h.html" title="Defines RBIMPL_HAS_EXTENSION." alt="" coords="147,259,354,285"/>
+<area shape="rect" id="node18" href="$dc/d4a/internal_2assume_8h.html" title="Defines RBIMPL_ASSUME / RBIMPL_UNREACHABLE." alt="" coords="288,415,456,442"/>
+<area shape="rect" id="node19" href="$dc/d2b/cast_8h_source.html" title=" " alt="" coords="135,505,281,531"/>
+<area shape="rect" id="node23" href="$dc/d79/cold_8h.html" title="Defines RBIMPL_ATTR_COLD." alt="" coords="1109,408,1241,449"/>
+<area shape="rect" id="node24" href="$de/d6f/noreturn_8h.html" title="Defines RBIMPL_ATTR_NORETURN." alt="" coords="901,408,1033,449"/>
+<area shape="rect" id="node27" href="$d1/d32/backward_22_2assume_8h.html" title="Defines ASSUME / RB_LIKELY / UNREACHABLE." alt="" coords="393,333,583,360"/>
+<area shape="rect" id="node21" href="$d4/d28/warning__push_8h.html" title="Defines RBIMPL_WARNING_PUSH." alt="" coords="82,587,241,628"/>
+<area shape="rect" id="node22" href="$d0/dcd/include_2ruby_2internal_2has_2builtin_8h.html" title="Defines RBIMPL_HAS_BUILTIN." alt="" coords="407,505,593,531"/>
+<area shape="rect" id="node20" href="$de/ddd/has_2warning_8h.html" title="Defines RBIMPL_HAS_WARNING." alt="" coords="420,594,617,621"/>
+<area shape="rect" id="node25" href="$d8/d8d/cpp__attribute_8h.html" title="Defines RBIMPL_HAS_CPP_ATTRIBUTE." alt="" coords="1095,587,1252,628"/>
+<area shape="rect" id="node26" href="$d4/d58/declspec__attribute_8h.html" title="Defines RBIMPL_HAS_DECLSPEC_ATTRIBUTE." alt="" coords="825,587,1013,628"/>
+<area shape="rect" id="node29" href="$d2/d74/feature_8h.html" title="Defines RBIMPL_HAS_FEATURE." alt="" coords="43,333,237,360"/>
+</map>

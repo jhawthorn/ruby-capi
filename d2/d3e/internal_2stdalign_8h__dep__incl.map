@@ -1,0 +1,130 @@
+<map id="include/ruby/internal/stdalign.h" name="include/ruby/internal/stdalign.h">
+<area shape="rect" id="node1" title="Defines RBIMPL_ALIGNAS / RBIMPL_ALIGNOF." alt="" coords="3229,5,3382,47"/>
+<area shape="rect" id="node2" href="$df/d66/backward_22_2stdalign_8h.html" title="Defines RUBY_ALIGNAS / RUBY_ALIGNOF." alt="" coords="3491,95,3653,136"/>
+<area shape="rect" id="node118" href="$dc/d18/memory_8h.html" title="Memory management stuff." alt="" coords="3066,259,3219,300"/>
+<area shape="rect" id="node3" href="$d8/db0/defines_8h.html" title=" " alt="" coords="3701,184,3864,211"/>
+<area shape="rect" id="node4" href="$df/d04/addr2line_8c_source.html" title=" " alt="" coords="3737,266,3828,293"/>
+<area shape="rect" id="node5" href="$df/da8/dln_8h_source.html" title=" " alt="" coords="1765,802,1819,829"/>
+<area shape="rect" id="node15" href="$db/d2e/intern_8h.html" title=" " alt="" coords="8251,534,8405,561"/>
+<area shape="rect" id="node16" href="$de/de6/ruby_2ruby_8h.html" title=" " alt="" coords="6766,623,6911,650"/>
+<area shape="rect" id="node105" href="$dc/de3/rdata_8h.html" title="Defines struct RData." alt="" coords="3986,348,4139,389"/>
+<area shape="rect" id="node108" href="$d4/dbc/fl__type_8h.html" title="Defines enum ruby_fl_type." alt="" coords="3986,259,4139,300"/>
+<area shape="rect" id="node119" href="$dd/d24/st_8h_source.html" title=" " alt="" coords="8963,355,9091,382"/>
+<area shape="rect" id="node127" href="$da/df7/include_2ruby_2util_8h.html" title=" " alt="" coords="3755,891,3891,918"/>
+<area shape="rect" id="node128" href="$db/d11/serial_8h_source.html" title=" " alt="" coords="6021,623,6141,650"/>
+<area shape="rect" id="node6" href="$d1/ddc/dln_8c_source.html" title=" " alt="" coords="2019,891,2069,918"/>
+<area shape="rect" id="node7" href="$d7/d1e/dln__find_8c_source.html" title=" " alt="" coords="470,891,551,918"/>
+<area shape="rect" id="node8" href="$d5/df2/win32_8c_source.html" title=" " alt="" coords="455,973,566,1000"/>
+<area shape="rect" id="node9" href="$d6/d13/file_8c_source.html" title=" " alt="" coords="1412,973,1463,1000"/>
+<area shape="rect" id="node10" href="$df/d0a/io_8c_source.html" title=" " alt="" coords="3367,973,3409,1000"/>
+<area shape="rect" id="node11" href="$d9/dd4/load_8c_source.html" title=" " alt="" coords="2907,973,2965,1000"/>
+<area shape="rect" id="node12" href="$d7/d5a/mjit__worker_8c_source.html" title=" " alt="" coords="5457,973,5559,1000"/>
+<area shape="rect" id="node13" href="$d0/d85/process_8c_source.html" title=" " alt="" coords="6722,973,6801,1000"/>
+<area shape="rect" id="node14" href="$df/d77/ruby_8c_source.html" title=" " alt="" coords="2745,973,2805,1000"/>
+<area shape="rect" id="node47" href="$df/d69/internal_2class_8h_source.html" title=" " alt="" coords="6615,802,6729,829"/>
+<area shape="rect" id="node58" href="$d3/da2/internal_2error_8h_source.html" title=" " alt="" coords="5181,891,5299,918"/>
+<area shape="rect" id="node76" href="$d3/d26/internal_2numeric_8h_source.html" title=" " alt="" coords="8707,802,8845,829"/>
+<area shape="rect" id="node84" href="$d3/d66/internal_2enumerator_8h_source.html" title=" " alt="" coords="12069,713,12227,739"/>
+<area shape="rect" id="node86" href="$d5/d97/internal_2fixnum_8h_source.html" title=" " alt="" coords="8757,713,8888,739"/>
+<area shape="rect" id="node97" href="$d8/dfd/internal_2thread_8h_source.html" title=" " alt="" coords="6928,891,7056,918"/>
+<area shape="rect" id="node17" href="$de/d6d/compar_8c_source.html" title=" " alt="" coords="4650,973,4726,1000"/>
+<area shape="rect" id="node18" href="$dd/d17/constant_8h_source.html" title=" " alt="" coords="8001,802,8087,829"/>
+<area shape="rect" id="node21" href="$dd/d9e/internal_2variable_8h_source.html" title=" " alt="" coords="6616,891,6752,918"/>
+<area shape="rect" id="node27" href="$dd/d2d/node_8c_source.html" title=" " alt="" coords="12125,973,12189,1000"/>
+<area shape="rect" id="node29" href="$db/d97/parse_8c_source.html" title=" " alt="" coords="7372,973,7439,1000"/>
+<area shape="rect" id="node30" href="$d6/d5a/transient__heap_8c_source.html" title=" " alt="" coords="9441,973,9565,1000"/>
+<area shape="rect" id="node32" href="$d3/d2c/debug__counter_8h_source.html" title=" " alt="" coords="10113,891,10239,918"/>
+<area shape="rect" id="node35" href="$de/d32/dir_8c_source.html" title=" " alt="" coords="2185,973,2231,1000"/>
+<area shape="rect" id="node36" href="$da/d0d/dmydln_8c_source.html" title=" " alt="" coords="6877,713,6955,739"/>
+<area shape="rect" id="node37" href="$de/d46/enumerator_8c_source.html" title=" " alt="" coords="12759,973,12863,1000"/>
+<area shape="rect" id="node38" href="$dd/dd0/eval__intern_8h_source.html" title=" " alt="" coords="6131,891,6234,918"/>
+<area shape="rect" id="node40" href="$d0/daa/gc_8h_source.html" title=" " alt="" coords="8747,891,8795,918"/>
+<area shape="rect" id="node41" href="$da/d2d/ractor_8c_source.html" title=" " alt="" coords="10191,973,10257,1000"/>
+<area shape="rect" id="node43" href="$da/d59/gems_2src_2debug_2ext_2debug_2debug_8c_source.html" title=" " alt="" coords="2772,795,2919,836"/>
+<area shape="rect" id="node44" href="$d9/d39/iseq__collector_8c_source.html" title=" " alt="" coords="6980,705,7143,747"/>
+<area shape="rect" id="node45" href="$d1/ddc/hrtime_8h_source.html" title=" " alt="" coords="7801,891,7877,918"/>
+<area shape="rect" id="node46" href="$db/d0a/id__table_8h_source.html" title=" " alt="" coords="8103,713,8185,739"/>
+<area shape="rect" id="node48" href="$d9/d2b/internal_2object_8h_source.html" title=" " alt="" coords="5677,891,5803,918"/>
+<area shape="rect" id="node51" href="$d6/d10/marshal_8c_source.html" title=" " alt="" coords="4826,973,4907,1000"/>
+<area shape="rect" id="node52" href="$d2/dd0/ractor__core_8h_source.html" title=" " alt="" coords="10517,891,10621,918"/>
+<area shape="rect" id="node53" href="$d9/d3f/ruby_8h_source.html" title=" " alt="" coords="830,891,941,918"/>
+<area shape="rect" id="node56" href="$db/da0/include_2ruby_2encoding_8h.html" title="Encoding relates APIs." alt="" coords="2591,713,2766,739"/>
+<area shape="rect" id="node57" href="$d4/d0f/internal_2encoding_8h_source.html" title=" " alt="" coords="2456,891,2600,918"/>
+<area shape="rect" id="node59" href="$d9/d84/win32_2file_8c_source.html" title=" " alt="" coords="5,973,99,1000"/>
+<area shape="rect" id="node60" href="$d0/dac/internal_2file_8h_source.html" title=" " alt="" coords="1205,891,1312,918"/>
+<area shape="rect" id="node61" href="$d2/d38/internal_2string_8h_source.html" title=" " alt="" coords="3897,802,4020,829"/>
+<area shape="rect" id="node62" href="$d8/d4e/strftime_8c_source.html" title=" " alt="" coords="3093,973,3176,1000"/>
+<area shape="rect" id="node63" href="$d4/db9/internal_2symbol_8h_source.html" title=" " alt="" coords="6259,891,6389,918"/>
+<area shape="rect" id="node64" href="$dc/d45/internal_2transcode_8h_source.html" title=" " alt="" coords="2549,802,2697,829"/>
+<area shape="rect" id="node65" href="$dd/d61/miniinit_8c_source.html" title=" " alt="" coords="2943,802,3020,829"/>
+<area shape="rect" id="node66" href="$d2/dd8/scheduler_8h.html" title="Scheduler APIs." alt="" coords="4465,884,4599,925"/>
+<area shape="rect" id="node67" href="$d5/d08/buffer_8h.html" title=" " alt="" coords="3501,802,3670,829"/>
+<area shape="rect" id="node68" href="$d4/da0/include_2ruby_2random_8h.html" title=" " alt="" coords="7361,713,7527,739"/>
+<area shape="rect" id="node69" href="$db/dde/internal_8h_source.html" title=" " alt="" coords="5468,713,5551,739"/>
+<area shape="rect" id="node70" href="$d8/d32/vm__core_8h_source.html" title=" " alt="" coords="7278,802,7365,829"/>
+<area shape="rect" id="node71" href="$d2/d0b/version_8c_source.html" title=" " alt="" coords="7646,891,7725,918"/>
+<area shape="rect" id="node72" href="$df/d7d/internal_2array_8h_source.html" title=" " alt="" coords="7167,713,7286,739"/>
+<area shape="rect" id="node73" href="$d3/d22/imemo_8h_source.html" title=" " alt="" coords="9789,802,9920,829"/>
+<area shape="rect" id="node74" href="$dd/d84/internal_2process_8h_source.html" title=" " alt="" coords="2297,891,2431,918"/>
+<area shape="rect" id="node75" href="$d3/d98/internal_2bignum_8h_source.html" title=" " alt="" coords="6615,713,6750,739"/>
+<area shape="rect" id="node77" href="$d8/d5f/internal_2rational_8h_source.html" title=" " alt="" coords="11392,891,11525,918"/>
+<area shape="rect" id="node78" href="$df/db9/bits_8h_source.html" title=" " alt="" coords="8365,713,8475,739"/>
+<area shape="rect" id="node79" href="$d4/d38/internal_2time_8h_source.html" title=" " alt="" coords="8416,802,8531,829"/>
+<area shape="rect" id="node80" href="$d4/d03/compile_8h_source.html" title=" " alt="" coords="7081,891,7215,918"/>
+<area shape="rect" id="node81" href="$d8/d8c/internal_2cont_8h_source.html" title=" " alt="" coords="11051,891,11165,918"/>
+<area shape="rect" id="node82" href="$d5/dfa/internal_2dir_8h_source.html" title=" " alt="" coords="1387,891,1488,918"/>
+<area shape="rect" id="node83" href="$df/d03/internal_2enum_8h_source.html" title=" " alt="" coords="12549,891,12672,918"/>
+<area shape="rect" id="node85" href="$d3/d11/internal_2eval_8h_source.html" title=" " alt="" coords="8206,891,8317,918"/>
+<area shape="rect" id="node87" href="$d9/dbe/internal_2gc_8h_source.html" title=" " alt="" coords="9653,713,9755,739"/>
+<area shape="rect" id="node88" href="$d2/da3/internal_2struct_8h_source.html" title=" " alt="" coords="9491,891,9613,918"/>
+<area shape="rect" id="node89" href="$d1/d28/internal_2hash_8h_source.html" title=" " alt="" coords="9198,891,9314,918"/>
+<area shape="rect" id="node90" href="$d4/d15/internal_2io_8h_source.html" title=" " alt="" coords="2725,891,2824,918"/>
+<area shape="rect" id="node91" href="$dd/d9a/internal_2load_8h_source.html" title=" " alt="" coords="1017,891,1130,918"/>
+<area shape="rect" id="node92" href="$df/db1/math_8h_source.html" title=" " alt="" coords="3915,891,4034,918"/>
+<area shape="rect" id="node93" href="$d3/d1c/internal_2parse_8h_source.html" title=" " alt="" coords="2949,891,3072,918"/>
+<area shape="rect" id="node94" href="$d3/d0b/internal_2proc_8h_source.html" title=" " alt="" coords="12005,891,12120,918"/>
+<area shape="rect" id="node95" href="$d0/d9b/internal_2re_8h_source.html" title=" " alt="" coords="9022,891,9122,918"/>
+<area shape="rect" id="node96" href="$d0/ddd/sanitizers_8h_source.html" title=" " alt="" coords="9739,891,9885,918"/>
+<area shape="rect" id="node98" href="$dc/d8f/internal_2vm_8h_source.html" title=" " alt="" coords="5597,713,5704,739"/>
+<area shape="rect" id="node99" href="$d5/d74/loadpath_8c_source.html" title=" " alt="" coords="7602,713,7689,739"/>
+<area shape="rect" id="node100" href="$d1/d9b/flock_8c_source.html" title=" " alt="" coords="7713,713,7825,739"/>
+<area shape="rect" id="node101" href="$d6/d27/probes__helper_8h_source.html" title=" " alt="" coords="11751,802,11873,829"/>
+<area shape="rect" id="node102" href="$da/d10/timev_8h_source.html" title=" " alt="" coords="1843,802,1909,829"/>
+<area shape="rect" id="node103" href="$d1/daa/transcode__data_8h_source.html" title=" " alt="" coords="7849,713,7977,739"/>
+<area shape="rect" id="node104" href="$d5/d8c/vm__debug_8h_source.html" title=" " alt="" coords="10045,802,10144,829"/>
+<area shape="rect" id="node19" href="$d9/d0c/class_8c_source.html" title=" " alt="" coords="8477,973,8537,1000"/>
+<area shape="rect" id="node20" href="$d8/d16/gc_8c_source.html" title=" " alt="" coords="9843,973,9890,1000"/>
+<area shape="rect" id="node28" href="$d0/de1/object_8c_source.html" title=" " alt="" coords="5241,973,5311,1000"/>
+<area shape="rect" id="node31" href="$d0/d2a/variable_8c_source.html" title=" " alt="" coords="7542,973,7623,1000"/>
+<area shape="rect" id="node22" href="$d1/dcc/bignum_8c_source.html" title=" " alt="" coords="3783,973,3862,1000"/>
+<area shape="rect" id="node23" href="$d2/d47/compile_8c_source.html" title=" " alt="" coords="7108,973,7188,1000"/>
+<area shape="rect" id="node24" href="$db/dcc/error_8c_source.html" title=" " alt="" coords="5370,973,5433,1000"/>
+<area shape="rect" id="node25" href="$dd/d74/iseq_8c_source.html" title=" " alt="" coords="6474,973,6531,1000"/>
+<area shape="rect" id="node26" href="$d0/d78/memory__view_8c_source.html" title=" " alt="" coords="5583,973,5702,1000"/>
+<area shape="rect" id="node33" href="$dc/dcc/array_8c_source.html" title=" " alt="" coords="12253,973,12315,1000"/>
+<area shape="rect" id="node34" href="$d1/d04/hash_8c_source.html" title=" " alt="" coords="11197,973,11259,1000"/>
+<area shape="rect" id="node39" href="$de/de9/vm_8c_source.html" title=" " alt="" coords="9915,973,9965,1000"/>
+<area shape="rect" id="node42" href="$de/d87/symbol_8c_source.html" title=" " alt="" coords="5726,973,5802,1000"/>
+<area shape="rect" id="node49" href="$d5/db5/encoding_8c_source.html" title=" " alt="" coords="887,973,977,1000"/>
+<area shape="rect" id="node50" href="$d9/d69/enum_8c_source.html" title=" " alt="" coords="11553,973,11621,1000"/>
+<area shape="rect" id="node54" href="$d8/d01/ast_8c_source.html" title=" " alt="" coords="2612,973,2663,1000"/>
+<area shape="rect" id="node55" href="$d7/d5b/setproctitle_8c_source.html" title=" " alt="" coords="1747,973,1901,1000"/>
+<area shape="rect" id="node106" href="$d5/dc4/core_8h.html" title="Core data structures, definitions and manipulations." alt="" coords="4155,527,4309,568"/>
+<area shape="rect" id="node107" href="$dc/d92/rtypeddata_8h.html" title="Defines struct RTypedData." alt="" coords="3974,437,4127,479"/>
+<area shape="rect" id="node109" href="$d9/de1/rarray_8h.html" title="Defines struct RArray." alt="" coords="4151,437,4305,479"/>
+<area shape="rect" id="node110" href="$d9/d69/robject_8h.html" title="Defines struct RObject." alt="" coords="4266,348,4419,389"/>
+<area shape="rect" id="node111" href="$d8/dcf/rstring_8h.html" title="Defines struct RString." alt="" coords="4443,348,4597,389"/>
+<area shape="rect" id="node112" href="$df/d43/coderange_8h.html" title="Routines for code ranges." alt="" coords="2715,616,2882,657"/>
+<area shape="rect" id="node113" href="$df/d1f/include_2ruby_2internal_2encoding_2encoding_8h.html" title="Defines rb_encoding." alt="" coords="3422,527,3581,568"/>
+<area shape="rect" id="node114" href="$d5/d87/globals_8h.html" title="Ruby&#45;level global variables / constants, visible from C." alt="" coords="3758,527,3911,568"/>
+<area shape="rect" id="node115" href="$de/d3d/include_2ruby_2internal_2intern_2error_8h.html" title="Public APIs related to rb_eException." alt="" coords="4687,348,4841,389"/>
+<area shape="rect" id="node116" href="$d6/dc6/newobj_8h.html" title="Defines NEWOBJ." alt="" coords="3809,348,3962,389"/>
+<area shape="rect" id="node117" href="$d8/d4f/include_2ruby_2ractor_8h.html" title=" " alt="" coords="8971,802,9122,829"/>
+<area shape="rect" id="node120" href="$db/d6e/cxxanyargs_8hpp.html" title="Provides old prototypes for C++ programs." alt="" coords="8659,527,8821,568"/>
+<area shape="rect" id="node121" href="$de/dbc/st__data__t_8h.html" title="Arithmetic conversion between C&#39;s st_data_t and Ruby&#39;s." alt="" coords="12284,437,12447,479"/>
+<area shape="rect" id="node122" href="$d4/d04/include_2ruby_2internal_2intern_2hash_8h.html" title="Public APIs related to rb_cHash." alt="" coords="8663,437,8817,479"/>
+<area shape="rect" id="node123" href="$d8/d68/include_2ruby_2internal_2intern_2string_8h.html" title="Public APIs related to rb_cString." alt="" coords="8309,437,8462,479"/>
+<area shape="rect" id="node124" href="$db/d63/include_2ruby_2internal_2intern_2variable_8h.html" title="Public APIs related to names inside of a Ruby program." alt="" coords="8486,437,8639,479"/>
+<area shape="rect" id="node125" href="$d6/d87/regint_8h_source.html" title=" " alt="" coords="11821,623,11891,650"/>
+<area shape="rect" id="node126" href="$d6/dda/regparse_8c_source.html" title=" " alt="" coords="12471,445,12559,471"/>
+</map>

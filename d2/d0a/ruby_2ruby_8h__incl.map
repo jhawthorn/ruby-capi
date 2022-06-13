@@ -1,0 +1,130 @@
+<map id="include/ruby/ruby.h" name="include/ruby/ruby.h">
+<area shape="rect" id="node1" title=" " alt="" coords="11139,5,11285,32"/>
+<area shape="rect" id="node2" href="$db/d16/config_8h_source.html" title=" " alt="" coords="7653,1197,7811,1224"/>
+<area shape="rect" id="node6" href="$d1/d2d/stdarg_8h.html" title="Defines old _." alt="" coords="15390,609,15463,635"/>
+<area shape="rect" id="node7" href="$d8/db0/defines_8h.html" title=" " alt="" coords="13411,519,13491,546"/>
+<area shape="rect" id="node9" href="$db/de3/dllexport_8h.html" title="Tweaking visibility of C variables/functions." alt="" coords="14720,966,14896,993"/>
+<area shape="rect" id="node15" href="$d1/d32/backward_22_2assume_8h.html" title="Defines ASSUME / RB_LIKELY / UNREACHABLE." alt="" coords="2703,966,2894,993"/>
+<area shape="rect" id="node18" href="$de/ddd/has_2warning_8h.html" title="Defines RBIMPL_HAS_WARNING." alt="" coords="15339,1197,15536,1224"/>
+<area shape="rect" id="node32" href="$dc/da7/assert_8h.html" title=" " alt="" coords="2675,877,2781,903"/>
+<area shape="rect" id="node40" href="$df/d31/abi_8h_source.html" title=" " alt="" coords="17813,80,17952,107"/>
+<area shape="rect" id="node41" href="$db/d53/anyargs_8h.html" title="Function overloads to issue warnings around ANYARGS." alt="" coords="11503,162,11673,189"/>
+<area shape="rect" id="node44" href="$d4/d3f/value_8h.html" title="Defines VALUE and ID." alt="" coords="11561,698,11716,725"/>
+<area shape="rect" id="node46" href="$d9/d86/limits_8h_source.html" title=" " alt="" coords="11612,787,11788,814"/>
+<area shape="rect" id="node48" href="$da/d32/include_2ruby_2internal_2method_8h.html" title="Creation and modification of Ruby methods." alt="" coords="15208,519,15379,546"/>
+<area shape="rect" id="node51" href="$df/d22/iterator_8h.html" title="Block related APIs." alt="" coords="9339,609,9504,635"/>
+<area shape="rect" id="node55" href="$de/d16/include_2ruby_2internal_2variable_8h.html" title="Declares rb_define_variable()." alt="" coords="9144,609,9315,635"/>
+<area shape="rect" id="node56" href="$d2/d35/arithmetic_8h.html" title="Conversion between C&#39;s arithmtic types and Ruby&#39;s numeric types." alt="" coords="8536,80,8720,107"/>
+<area shape="rect" id="node64" href="$df/d89/special__consts_8h.html" title="Defines enum ruby_special_consts." alt="" coords="4590,601,4741,643"/>
+<area shape="rect" id="node69" href="$d4/dbc/fl__type_8h.html" title="Defines enum ruby_fl_type." alt="" coords="3693,341,3856,367"/>
+<area shape="rect" id="node71" href="$df/d6a/value__type_8h.html" title="Defines enum ruby_value_type." alt="" coords="2678,423,2821,464"/>
+<area shape="rect" id="node73" href="$d4/d74/include_2ruby_2internal_2error_8h.html" title="Declares rb_raise()." alt="" coords="8185,609,8335,635"/>
+<area shape="rect" id="node84" href="$d5/dc4/core_8h.html" title="Core data structures, definitions and manipulations." alt="" coords="3738,80,3886,107"/>
+<area shape="rect" id="node86" href="$dd/dd3/rgengc_8h.html" title="RGENGC write&#45;barrier APIs." alt="" coords="5046,519,5210,546"/>
+<area shape="rect" id="node92" href="$dd/d38/backward_8h_source.html" title=" " alt="" coords="10106,519,10233,546"/>
+<area shape="rect" id="node93" href="$d3/d97/interpreter_8h.html" title="Interpreter embedding APIs." alt="" coords="10485,609,10673,635"/>
+<area shape="rect" id="node98" href="$d7/d0d/ctype_8h.html" title="Our own, locale independent, character handling routines." alt="" coords="5221,609,5376,635"/>
+<area shape="rect" id="node99" href="$da/dc1/include_2ruby_2internal_2eval_8h.html" title="Declares rb_eval_string()." alt="" coords="11959,609,12105,635"/>
+<area shape="rect" id="node100" href="$dd/d20/event_8h.html" title="Debugging and tracing APIs." alt="" coords="16657,609,16813,635"/>
+<area shape="rect" id="node101" href="$db/df8/include_2ruby_2internal_2gc_8h.html" title="Registering values to the GC." alt="" coords="16889,609,17023,635"/>
+<area shape="rect" id="node102" href="$d7/d04/glob_8h.html" title="Declares rb_glob()." alt="" coords="12129,609,12277,635"/>
+<area shape="rect" id="node103" href="$d5/d87/globals_8h.html" title="Ruby&#45;level global variables / constants, visible from C." alt="" coords="4643,251,4807,278"/>
+<area shape="rect" id="node104" href="$dc/d18/memory_8h.html" title="Memory management stuff." alt="" coords="7481,430,7655,457"/>
+<area shape="rect" id="node105" href="$d5/d16/module_8h.html" title="Creation and modification of Ruby modules." alt="" coords="17099,609,17267,635"/>
+<area shape="rect" id="node106" href="$d6/dc6/newobj_8h.html" title="Defines NEWOBJ." alt="" coords="4453,251,4619,278"/>
+<area shape="rect" id="node107" href="$d7/d4e/scan__args_8h.html" title="Compile&#45;time static implementation of rb_scan_args()." alt="" coords="7444,155,7580,196"/>
+<area shape="rect" id="node111" href="$d9/d00/include_2ruby_2internal_2symbol_8h.html" title="Defines rb_intern." alt="" coords="3336,609,3501,635"/>
+<area shape="rect" id="node112" href="$d3/dd6/inttypes_8h_source.html" title=" " alt="" coords="17443,609,17637,635"/>
+<area shape="rect" id="node113" href="$db/d2e/intern_8h.html" title=" " alt="" coords="13216,162,13323,189"/>
+<area shape="rect" id="node128" href="$d7/d72/subst_8h_source.html" title=" " alt="" coords="17976,80,18077,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="7679,1279,7785,1306"/>
+<area shape="rect" id="node4" href="$dc/db4/compiler__since_8h.html" title="Defines RBIMPL_COMPILER_SINCE." alt="" coords="3184,1272,3347,1313"/>
+<area shape="rect" id="node5" href="$df/dec/compiler__is_8h.html" title="Defines RBIMPL_COMPILER_IS." alt="" coords="9465,1361,9655,1388"/>
+<area shape="rect" id="node8" title=" " alt="" coords="13629,609,13693,635"/>
+<area shape="rect" id="node10" href="$d8/de3/xmalloc_8h.html" title="Declares ruby_xmalloc()." alt="" coords="7339,609,7506,635"/>
+<area shape="rect" id="node20" href="$da/d6e/attributes_8h_source.html" title=" " alt="" coords="6008,609,6213,635"/>
+<area shape="rect" id="node33" href="$d8/d77/bool_8h_source.html" title=" " alt="" coords="9579,609,9749,635"/>
+<area shape="rect" id="node35" href="$d7/db0/backward_22_2long__long_8h.html" title="Defines old LONG_LONG." alt="" coords="14285,869,14443,911"/>
+<area shape="rect" id="node36" href="$df/d66/backward_22_2stdalign_8h.html" title="Defines RUBY_ALIGNAS / RUBY_ALIGNOF." alt="" coords="12740,787,12932,814"/>
+<area shape="rect" id="node38" href="$de/d53/dosish_8h.html" title="Support for so&#45;called dosish systems." alt="" coords="13717,609,13877,635"/>
+<area shape="rect" id="node39" href="$d9/da8/include_2ruby_2missing_8h_source.html" title=" " alt="" coords="13389,609,13504,635"/>
+<area shape="rect" id="node11" href="$d8/ddc/alloc__size_8h.html" title="Defines RBIMPL_ATTR_ALLOC_SIZE." alt="" coords="6882,691,7014,732"/>
+<area shape="rect" id="node13" href="$d8/dbd/restrict_8h.html" title="Defines RBIMPL_ATTR_RESTRICT." alt="" coords="6111,691,6243,732"/>
+<area shape="rect" id="node14" href="$d6/db2/returns__nonnull_8h.html" title="Defines RBIMPL_ATTR_RETURNS_NONNULL." alt="" coords="7038,691,7175,732"/>
+<area shape="rect" id="node12" href="$d3/d7c/attribute_8h.html" title="Defines RBIMPL_HAS_ATTRIBUTE." alt="" coords="5781,1048,5984,1075"/>
+<area shape="rect" id="node16" href="$dc/d4a/internal_2assume_8h.html" title="Defines RBIMPL_ASSUME / RBIMPL_UNREACHABLE." alt="" coords="2135,1048,2303,1075"/>
+<area shape="rect" id="node19" href="$d0/dcd/include_2ruby_2internal_2has_2builtin_8h.html" title="Defines RBIMPL_HAS_BUILTIN." alt="" coords="2759,1123,2945,1149"/>
+<area shape="rect" id="node17" href="$dc/d2b/cast_8h_source.html" title=" " alt="" coords="870,1123,1015,1149"/>
+<area shape="rect" id="node21" href="$dc/d79/cold_8h.html" title="Defines RBIMPL_ATTR_COLD." alt="" coords="8294,959,8426,1000"/>
+<area shape="rect" id="node22" href="$da/d5a/const_8h.html" title="Defines RBIMPL_ATTR_CONST." alt="" coords="4883,691,5015,732"/>
+<area shape="rect" id="node23" href="$d4/dce/deprecated_8h.html" title="Defines RBIMPL_ATTR_DEPRECATED." alt="" coords="5091,691,5223,732"/>
+<area shape="rect" id="node25" href="$d5/daf/include_2ruby_2internal_2attr_2error_8h.html" title="Defines RBIMPL_ATTR_ERROR." alt="" coords="5599,691,5731,732"/>
+<area shape="rect" id="node26" href="$d3/d51/forceinline_8h.html" title="Defines RBIMPL_ATTR_FORCEINLINE." alt="" coords="1411,691,1543,732"/>
+<area shape="rect" id="node27" href="$d0/d0a/format_8h.html" title="Defines RBIMPL_ATTR_FORMAT." alt="" coords="6522,691,6654,732"/>
+<area shape="rect" id="node28" href="$da/dfe/maybe__unused_8h.html" title="Defines RBIMPL_ATTR_MAYBE_UNUSED." alt="" coords="5271,691,5404,732"/>
+<area shape="rect" id="node29" href="$de/d80/nonnull_8h.html" title="Defines RBIMPL_ATTR_NONNULL." alt="" coords="8747,691,8879,732"/>
+<area shape="rect" id="node30" href="$de/d6f/noreturn_8h.html" title="Defines RBIMPL_ATTR_NORETURN." alt="" coords="8041,959,8173,1000"/>
+<area shape="rect" id="node31" href="$d6/d0a/pure_8h.html" title="Defines RBIMPL_ATTR_PURE." alt="" coords="2827,691,2959,732"/>
+<area shape="rect" id="node24" href="$d8/d3b/extension_8h.html" title="Defines RBIMPL_HAS_EXTENSION." alt="" coords="4127,877,4334,903"/>
+<area shape="rect" id="node34" href="$d9/d5e/stdbool_8h.html" title="C99 shim for &lt;stdbool.h&gt;" alt="" coords="7633,698,7799,725"/>
+<area shape="rect" id="node37" href="$d4/df3/internal_2stdalign_8h.html" title="Defines RBIMPL_ALIGNAS / RBIMPL_ALIGNOF." alt="" coords="11610,966,11779,993"/>
+<area shape="rect" id="node42" href="$d3/da8/weakref_8h.html" title="Defines RBIMPL_ATTR_WEAKREF." alt="" coords="8953,780,9085,821"/>
+<area shape="rect" id="node43" href="$d7/d6a/include_2ruby_2internal_2intern_2class_8h.html" title="Public APIs related to rb_cClass/rb_cModule." alt="" coords="14740,333,14887,375"/>
+<area shape="rect" id="node47" href="$d1/dd2/include_2ruby_2internal_2intern_2vm_8h.html" title="Public APIs related to rb_cRubyVM." alt="" coords="8665,609,8847,635"/>
+<area shape="rect" id="node49" href="$db/d6e/cxxanyargs_8hpp.html" title="Provides old prototypes for C++ programs." alt="" coords="13657,251,13871,278"/>
+<area shape="rect" id="node45" href="$d6/d78/include_2ruby_2internal_2static__assert_8h.html" title="Defines RBIMPL_STATIC_ASSERT." alt="" coords="3704,780,3845,821"/>
+<area shape="rect" id="node50" href="$d6/dfa/include_2ruby_2internal_2intern_2cont_8h.html" title="Public APIs related to rb_cFiber." alt="" coords="13725,512,13872,553"/>
+<area shape="rect" id="node52" href="$d4/d04/include_2ruby_2internal_2intern_2hash_8h.html" title="Public APIs related to rb_cHash." alt="" coords="13435,333,13581,375"/>
+<area shape="rect" id="node53" href="$dd/d24/st_8h_source.html" title=" " alt="" coords="13486,430,13565,457"/>
+<area shape="rect" id="node54" href="$db/d55/include_2ruby_2internal_2intern_2proc_8h.html" title="Public APIs related to rb_cProc." alt="" coords="12517,333,12664,375"/>
+<area shape="rect" id="node57" href="$d3/df3/char_8h.html" title="Arithmetic conversion between C&#39;s char and Ruby&#39;s." alt="" coords="2567,155,2739,196"/>
+<area shape="rect" id="node58" href="$d3/d7e/int_8h.html" title="Arithmetic conversion between C&#39;s int and Ruby&#39;s." alt="" coords="5691,423,5863,464"/>
+<area shape="rect" id="node59" href="$d0/d69/include_2ruby_2internal_2arithmetic_2fixnum_8h.html" title="Handling of integers formerly known as Fixnums." alt="" coords="7734,601,7906,643"/>
+<area shape="rect" id="node60" href="$de/d98/intptr__t_8h.html" title="Arithmetic conversion between C&#39;s intptr_t and Ruby&#39;s." alt="" coords="10289,601,10461,643"/>
+<area shape="rect" id="node61" href="$dc/da6/long_8h.html" title="Arithmetic conversion between C&#39;s long and Ruby&#39;s." alt="" coords="5641,512,5813,553"/>
+<area shape="rect" id="node74" href="$d9/d6e/double_8h.html" title="Arithmetic conversion between C&#39;s double and Ruby&#39;s." alt="" coords="11610,601,11782,643"/>
+<area shape="rect" id="node75" href="$d4/d52/gid__t_8h.html" title="Arithmetic conversion between C&#39;s gid_t and Ruby&#39;s." alt="" coords="6519,423,6691,464"/>
+<area shape="rect" id="node76" href="$da/d25/internal_2arithmetic_2long__long_8h.html" title="Arithmetic conversion between C&#39;s long long and Ruby&#39;s." alt="" coords="14049,512,14221,553"/>
+<area shape="rect" id="node77" href="$da/df0/mode__t_8h.html" title="Arithmetic conversion between C&#39;s mode_t and Ruby&#39;s." alt="" coords="7734,333,7906,375"/>
+<area shape="rect" id="node78" href="$dc/dcd/off__t_8h.html" title="Arithmetic conversion between C&#39;s off_t and Ruby&#39;s." alt="" coords="8902,333,9074,375"/>
+<area shape="rect" id="node79" href="$d7/d75/pid__t_8h.html" title="Arithmetic conversion between C&#39;s pid_t and Ruby&#39;s." alt="" coords="6715,423,6887,464"/>
+<area shape="rect" id="node80" href="$de/d05/short_8h.html" title="Arithmetic conversion between C&#39;s short and Ruby&#39;s." alt="" coords="11661,512,11833,553"/>
+<area shape="rect" id="node81" href="$d1/dc9/size__t_8h.html" title="Arithmetic conversion between C&#39;s size_t and Ruby&#39;s." alt="" coords="9525,333,9697,375"/>
+<area shape="rect" id="node82" href="$de/dbc/st__data__t_8h.html" title="Arithmetic conversion between C&#39;s st_data_t and Ruby&#39;s." alt="" coords="4953,333,5125,375"/>
+<area shape="rect" id="node83" href="$d4/dc6/uid__t_8h.html" title="Arithmetic conversion between C&#39;s uid_t and Ruby&#39;s." alt="" coords="6911,423,7083,464"/>
+<area shape="rect" id="node62" href="$df/d45/artificial_8h.html" title="Defines RBIMPL_ATTR_ARTIFICIAL." alt="" coords="4182,691,4314,732"/>
+<area shape="rect" id="node63" href="$d1/d06/constexpr_8h.html" title="RBIMPL_ATTR_CONSTEXPR." alt="" coords="1867,691,1999,732"/>
+<area shape="rect" id="node66" href="$d8/dcf/rstring_8h.html" title="Defines struct RString." alt="" coords="2075,244,2211,285"/>
+<area shape="rect" id="node65" href="$d5/d63/enum__extensibility_8h.html" title="RBIMPL_ATTR_ENUM_EXTENSIBILITY." alt="" coords="3949,691,4102,732"/>
+<area shape="rect" id="node67" href="$df/dcf/rbasic_8h.html" title="Defines struct RBasic." alt="" coords="1723,512,1859,553"/>
+<area shape="rect" id="node68" href="$d5/dc1/noalias_8h.html" title="Defines RBIMPL_ATTR_NOALIAS." alt="" coords="2075,691,2207,732"/>
+<area shape="rect" id="node70" href="$d8/db7/flag__enum_8h.html" title="Defines RBIMPL_ATTR_FLAG_ENUM." alt="" coords="3521,423,3653,464"/>
+<area shape="rect" id="node72" href="$d0/d7f/constant__p_8h.html" title="Defines RBIMPL_CONSTANT_P." alt="" coords="2334,698,2522,725"/>
+<area shape="rect" id="node85" href="$d9/de1/rarray_8h.html" title="Defines struct RArray." alt="" coords="4083,244,4219,285"/>
+<area shape="rect" id="node87" href="$d6/dd0/rbignum_8h.html" title="Routines to manipulate struct RBignum." alt="" coords="8741,333,8877,375"/>
+<area shape="rect" id="node88" href="$dc/d25/rclass_8h.html" title="Routines to manipulate struct RClass." alt="" coords="10027,601,10163,643"/>
+<area shape="rect" id="node89" href="$dc/de3/rdata_8h.html" title="Defines struct RData." alt="" coords="3744,244,3880,285"/>
+<area shape="rect" id="node90" href="$db/d00/rfile_8h.html" title="Defines struct RFile." alt="" coords="448,423,584,464"/>
+<area shape="rect" id="node91" href="$d6/d84/rhash_8h.html" title="Routines to manipulate struct RHash." alt="" coords="10279,423,10415,464"/>
+<area shape="rect" id="node94" href="$d9/d69/robject_8h.html" title="Defines struct RObject." alt="" coords="3292,244,3428,285"/>
+<area shape="rect" id="node95" href="$dc/d61/rregexp_8h.html" title="Defines struct RRegexp." alt="" coords="2087,155,2223,196"/>
+<area shape="rect" id="node96" href="$d9/d0c/rstruct_8h.html" title="Routines to manipulate struct RStruct." alt="" coords="5691,333,5827,375"/>
+<area shape="rect" id="node97" href="$dc/d92/rtypeddata_8h.html" title="Defines struct RTypedData." alt="" coords="3639,155,3775,196"/>
+<area shape="rect" id="node108" href="$da/d8c/diagnose__if_8h.html" title="Defines RBIMPL_ATTR_DIAGNOSE_IF." alt="" coords="5751,780,5883,821"/>
+<area shape="rect" id="node109" href="$df/d6b/include_2ruby_2internal_2intern_2array_8h.html" title="Public APIs related to rb_cArray." alt="" coords="6845,601,6992,643"/>
+<area shape="rect" id="node110" href="$de/d3d/include_2ruby_2internal_2intern_2error_8h.html" title="Public APIs related to rb_eException." alt="" coords="7039,244,7185,285"/>
+<area shape="rect" id="node114" href="$df/d5e/include_2ruby_2internal_2intern_2bignum_8h.html" title="Public APIs related to so&#45;called rb_cBignum." alt="" coords="14053,601,14200,643"/>
+<area shape="rect" id="node115" href="$d7/d62/include_2ruby_2internal_2intern_2compar_8h.html" title="Public APIs related to rb_mComparable." alt="" coords="13117,601,13264,643"/>
+<area shape="rect" id="node116" href="$d2/d42/include_2ruby_2internal_2intern_2complex_8h.html" title="Public APIs related to rb_cComplex." alt="" coords="6297,423,6444,464"/>
+<area shape="rect" id="node117" href="$d3/dfa/include_2ruby_2internal_2intern_2dir_8h.html" title="Public APIs related to rb_cDir." alt="" coords="15488,601,15635,643"/>
+<area shape="rect" id="node118" href="$da/dc7/include_2ruby_2internal_2intern_2enum_8h.html" title="Public APIs related to rb_mEnumerable." alt="" coords="15659,601,15805,643"/>
+<area shape="rect" id="node119" href="$dc/d1b/include_2ruby_2internal_2intern_2enumerator_8h.html" title="Public APIs related to rb_cEnumerator." alt="" coords="11908,512,12055,553"/>
+<area shape="rect" id="node120" href="$d2/d97/include_2ruby_2internal_2intern_2eval_8h.html" title="Pre&#45;1.9 era evaluator APIs (now considered miscellaneous)." alt="" coords="12947,601,13093,643"/>
+<area shape="rect" id="node121" href="$de/d06/include_2ruby_2internal_2intern_2file_8h.html" title="Public APIs related to rb_cFile." alt="" coords="8973,601,9120,643"/>
+<area shape="rect" id="node122" href="$d8/dbf/include_2ruby_2internal_2intern_2gc_8h.html" title="Public APIs related to rb_mGC." alt="" coords="9824,609,10003,635"/>
+<area shape="rect" id="node123" href="$d7/d9a/include_2ruby_2internal_2intern_2io_8h.html" title="Public APIs related to rb_cIO." alt="" coords="15830,609,16005,635"/>
+<area shape="rect" id="node124" href="$d5/d32/include_2ruby_2internal_2intern_2load_8h.html" title="Public APIs related to rb_f_require()." alt="" coords="12555,601,12701,643"/>
+<area shape="rect" id="node125" href="$d9/de0/marshal_8h.html" title="Public APIs related to rb_mMarshal." alt="" coords="16029,601,16176,643"/>
+<area shape="rect" id="node126" href="$d2/d46/include_2ruby_2internal_2intern_2numeric_8h.html" title="Public APIs related to rb_cNumeric." alt="" coords="12776,601,12923,643"/>
+<area shape="rect" id="node127" href="$d7/d93/include_2ruby_2internal_2intern_2object_8h.html" title="Public APIs related to rb_cObject." alt="" coords="7016,601,7163,643"/>
+</map>

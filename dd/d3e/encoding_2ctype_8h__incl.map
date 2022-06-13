@@ -1,0 +1,75 @@
+<map id="include/ruby/internal/encoding/ctype.h" name="include/ruby/internal/encoding/ctype.h">
+<area shape="rect" id="node1" title="Routines to query chacater types." alt="" coords="243,5,397,47"/>
+<area shape="rect" id="node2" href="$d1/dd8/onigmo_8h_source.html" title=" " alt="" coords="5,266,120,293"/>
+<area shape="rect" id="node4" href="$da/d5a/const_8h.html" title="Defines RBIMPL_ATTR_CONST." alt="" coords="706,616,838,657"/>
+<area shape="rect" id="node17" href="$db/de3/dllexport_8h.html" title="Tweaking visibility of C variables/functions." alt="" coords="4392,802,4568,829"/>
+<area shape="rect" id="node18" href="$df/d1f/include_2ruby_2internal_2encoding_2encoding_8h.html" title="Defines rb_encoding." alt="" coords="593,95,759,136"/>
+<area shape="rect" id="node37" href="$d4/d3f/value_8h.html" title="Defines VALUE and ID." alt="" coords="737,534,892,561"/>
+<area shape="rect" id="node3" title=" " alt="" coords="26,355,99,382"/>
+<area shape="rect" id="node5" href="$dc/db4/compiler__since_8h.html" title="Defines RBIMPL_COMPILER_SINCE." alt="" coords="1071,1152,1233,1193"/>
+<area shape="rect" id="node13" href="$d3/d7c/attribute_8h.html" title="Defines RBIMPL_HAS_ATTRIBUTE." alt="" coords="2172,891,2375,918"/>
+<area shape="rect" id="node16" href="$d4/d58/declspec__attribute_8h.html" title="Defines RBIMPL_HAS_DECLSPEC_ATTRIBUTE." alt="" coords="1357,884,1545,925"/>
+<area shape="rect" id="node6" href="$df/dec/compiler__is_8h.html" title="Defines RBIMPL_COMPILER_IS." alt="" coords="3526,1241,3717,1268"/>
+<area shape="rect" id="node7" href="$d2/d6e/apple_8h_source.html" title=" " alt="" coords="3320,1495,3483,1536"/>
+<area shape="rect" id="node8" href="$de/dbb/clang_8h_source.html" title=" " alt="" coords="3320,1405,3483,1447"/>
+<area shape="rect" id="node9" href="$d4/d99/gcc_8h_source.html" title=" " alt="" coords="3295,1316,3457,1357"/>
+<area shape="rect" id="node10" href="$d5/d80/intel_8h_source.html" title=" " alt="" coords="3507,1405,3669,1447"/>
+<area shape="rect" id="node11" href="$d4/dac/msvc_8h_source.html" title=" " alt="" coords="3481,1316,3644,1357"/>
+<area shape="rect" id="node12" href="$da/d2d/sunpro_8h_source.html" title=" " alt="" coords="3769,1316,3932,1357"/>
+<area shape="rect" id="node14" href="$db/d16/config_8h_source.html" title=" " alt="" coords="2990,1070,3149,1097"/>
+<area shape="rect" id="node15" title=" " alt="" coords="3016,1159,3123,1186"/>
+<area shape="rect" id="node19" href="$d8/db3/oniguruma_8h_source.html" title=" " alt="" coords="147,184,283,211"/>
+<area shape="rect" id="node20" href="$d4/dce/deprecated_8h.html" title="Defines RBIMPL_ATTR_DEPRECATED." alt="" coords="3167,705,3299,747"/>
+<area shape="rect" id="node25" href="$d5/dc1/noalias_8h.html" title="Defines RBIMPL_ATTR_NOALIAS." alt="" coords="405,437,537,479"/>
+<area shape="rect" id="node26" href="$d6/d0a/pure_8h.html" title="Defines RBIMPL_ATTR_PURE." alt="" coords="1438,616,1570,657"/>
+<area shape="rect" id="node36" href="$d6/db2/returns__nonnull_8h.html" title="Defines RBIMPL_ATTR_RETURNS_NONNULL." alt="" coords="2619,795,2757,836"/>
+<area shape="rect" id="node41" href="$df/dcf/rbasic_8h.html" title="Defines struct RBasic." alt="" coords="1484,348,1620,389"/>
+<area shape="rect" id="node48" href="$d4/dbc/fl__type_8h.html" title="Defines enum ruby_fl_type." alt="" coords="1556,184,1719,211"/>
+<area shape="rect" id="node21" href="$d8/d12/c__attribute_8h.html" title="Defines RBIMPL_HAS_C_ATTRIBUTE." alt="" coords="3244,884,3385,925"/>
+<area shape="rect" id="node22" href="$d8/d8d/cpp__attribute_8h.html" title="Defines RBIMPL_HAS_CPP_ATTRIBUTE." alt="" coords="3052,884,3209,925"/>
+<area shape="rect" id="node23" href="$d8/d3b/extension_8h.html" title="Defines RBIMPL_HAS_EXTENSION." alt="" coords="3958,802,4165,829"/>
+<area shape="rect" id="node24" href="$d2/d74/feature_8h.html" title="Defines RBIMPL_HAS_FEATURE." alt="" coords="3953,891,4146,918"/>
+<area shape="rect" id="node27" href="$dc/da7/assert_8h.html" title=" " alt="" coords="1191,713,1297,739"/>
+<area shape="rect" id="node28" href="$dc/d4a/internal_2assume_8h.html" title="Defines RBIMPL_ASSUME / RBIMPL_UNREACHABLE." alt="" coords="961,891,1129,918"/>
+<area shape="rect" id="node29" href="$dc/d2b/cast_8h_source.html" title=" " alt="" coords="487,981,633,1007"/>
+<area shape="rect" id="node33" href="$dc/d79/cold_8h.html" title="Defines RBIMPL_ATTR_COLD." alt="" coords="2463,795,2595,836"/>
+<area shape="rect" id="node34" href="$de/d6f/noreturn_8h.html" title="Defines RBIMPL_ATTR_NORETURN." alt="" coords="1794,795,1926,836"/>
+<area shape="rect" id="node35" href="$d1/d32/backward_22_2assume_8h.html" title="Defines ASSUME / RB_LIKELY / UNREACHABLE." alt="" coords="1066,802,1257,829"/>
+<area shape="rect" id="node31" href="$d4/d28/warning__push_8h.html" title="Defines RBIMPL_WARNING_PUSH." alt="" coords="746,1063,905,1104"/>
+<area shape="rect" id="node32" href="$d0/dcd/include_2ruby_2internal_2has_2builtin_8h.html" title="Defines RBIMPL_HAS_BUILTIN." alt="" coords="1183,981,1369,1007"/>
+<area shape="rect" id="node30" href="$de/ddd/has_2warning_8h.html" title="Defines RBIMPL_HAS_WARNING." alt="" coords="524,1070,721,1097"/>
+<area shape="rect" id="node38" href="$d6/d78/include_2ruby_2internal_2static__assert_8h.html" title="Defines RBIMPL_STATIC_ASSERT." alt="" coords="1015,616,1156,657"/>
+<area shape="rect" id="node39" href="$d7/db0/backward_22_2long__long_8h.html" title="Defines old LONG_LONG." alt="" coords="673,973,831,1015"/>
+<area shape="rect" id="node40" href="$d9/d86/limits_8h_source.html" title=" " alt="" coords="609,891,785,918"/>
+<area shape="rect" id="node42" href="$df/d45/artificial_8h.html" title="Defines RBIMPL_ATTR_ARTIFICIAL." alt="" coords="1763,527,1895,568"/>
+<area shape="rect" id="node43" href="$d1/d06/constexpr_8h.html" title="RBIMPL_ATTR_CONSTEXPR." alt="" coords="3874,705,4006,747"/>
+<area shape="rect" id="node44" href="$d3/d51/forceinline_8h.html" title="Defines RBIMPL_ATTR_FORCEINLINE." alt="" coords="1282,616,1414,657"/>
+<area shape="rect" id="node45" href="$df/d89/special__consts_8h.html" title="Defines enum ruby_special_consts." alt="" coords="1687,437,1838,479"/>
+<area shape="rect" id="node46" href="$d5/d63/enum__extensibility_8h.html" title="RBIMPL_ATTR_ENUM_EXTENSIBILITY." alt="" coords="1586,527,1739,568"/>
+<area shape="rect" id="node47" href="$d9/d5e/stdbool_8h.html" title="C99 shim for &lt;stdbool.h&gt;" alt="" coords="3001,623,3167,650"/>
+<area shape="rect" id="node49" href="$d8/db7/flag__enum_8h.html" title="Defines RBIMPL_ATTR_FLAG_ENUM." alt="" coords="2026,259,2158,300"/>
+<area shape="rect" id="node50" href="$df/d6a/value__type_8h.html" title="Defines enum ruby_value_type." alt="" coords="1457,259,1599,300"/>
+<area shape="rect" id="node55" href="$d8/db0/defines_8h.html" title=" " alt="" coords="3369,445,3484,471"/>
+<area shape="rect" id="node51" href="$d0/d7f/constant__p_8h.html" title="Defines RBIMPL_CONSTANT_P." alt="" coords="917,355,1105,382"/>
+<area shape="rect" id="node52" href="$d4/d74/include_2ruby_2internal_2error_8h.html" title="Declares rb_raise()." alt="" coords="1965,445,2115,471"/>
+<area shape="rect" id="node53" href="$d0/d0a/format_8h.html" title="Defines RBIMPL_ATTR_FORMAT." alt="" coords="2691,616,2823,657"/>
+<area shape="rect" id="node54" href="$de/d80/nonnull_8h.html" title="Defines RBIMPL_ATTR_NONNULL." alt="" coords="1875,616,2007,657"/>
+<area shape="rect" id="node56" title=" " alt="" coords="3395,534,3459,561"/>
+<area shape="rect" id="node57" href="$d8/de3/xmalloc_8h.html" title="Declares ruby_xmalloc()." alt="" coords="3323,713,3490,739"/>
+<area shape="rect" id="node62" href="$da/d6e/attributes_8h_source.html" title=" " alt="" coords="2221,534,2427,561"/>
+<area shape="rect" id="node67" href="$d8/d77/bool_8h_source.html" title=" " alt="" coords="3048,534,3219,561"/>
+<area shape="rect" id="node68" href="$df/d66/backward_22_2stdalign_8h.html" title="Defines RUBY_ALIGNAS / RUBY_ALIGNOF." alt="" coords="3657,713,3849,739"/>
+<area shape="rect" id="node70" href="$d1/d2d/stdarg_8h.html" title="Defines old _." alt="" coords="3483,534,3666,561"/>
+<area shape="rect" id="node71" href="$de/d53/dosish_8h.html" title="Support for so&#45;called dosish systems." alt="" coords="3691,534,3851,561"/>
+<area shape="rect" id="node72" href="$d9/da8/include_2ruby_2missing_8h_source.html" title=" " alt="" coords="4077,534,4192,561"/>
+<area shape="rect" id="node58" href="$d8/ddc/alloc__size_8h.html" title="Defines RBIMPL_ATTR_ALLOC_SIZE." alt="" coords="2833,795,2965,836"/>
+<area shape="rect" id="node59" href="$db/d81/nodiscard_8h.html" title="Defines RBIMPL_ATTR_NODISCARD." alt="" coords="3249,795,3381,836"/>
+<area shape="rect" id="node60" href="$db/d01/noexcept_8h.html" title="Defines RBIMPL_ATTR_NOEXCEPT." alt="" coords="3802,795,3934,836"/>
+<area shape="rect" id="node61" href="$d8/dbd/restrict_8h.html" title="Defines RBIMPL_ATTR_RESTRICT." alt="" coords="2103,795,2235,836"/>
+<area shape="rect" id="node63" href="$d5/daf/include_2ruby_2internal_2attr_2error_8h.html" title="Defines RBIMPL_ATTR_ERROR." alt="" coords="2245,705,2377,747"/>
+<area shape="rect" id="node64" href="$da/dfe/maybe__unused_8h.html" title="Defines RBIMPL_ATTR_MAYBE_UNUSED." alt="" coords="3040,795,3173,836"/>
+<area shape="rect" id="node65" href="$d2/d5b/noinline_8h.html" title="Defines RBIMPL_ATTR_NOINLINE." alt="" coords="1383,795,1515,836"/>
+<area shape="rect" id="node66" href="$d6/d91/attr_2warning_8h.html" title="Defines RBIMPL_ATTR_WARNING." alt="" coords="2401,705,2533,747"/>
+<area shape="rect" id="node69" href="$d4/df3/internal_2stdalign_8h.html" title="Defines RBIMPL_ALIGNAS / RBIMPL_ALIGNOF." alt="" coords="3609,802,3778,829"/>
+<area shape="rect" id="node73" title=" " alt="" coords="4078,623,4138,650"/>
+</map>

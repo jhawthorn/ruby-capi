@@ -1,0 +1,10 @@
+<map id="include/ruby/fiber/scheduler.h" name="include/ruby/fiber/scheduler.h">
+<area shape="rect" id="node1" title="Scheduler APIs." alt="" coords="210,5,345,47"/>
+<area shape="rect" id="node2" href="$d5/d75/cont_8c_source.html" title=" " alt="" coords="5,95,64,121"/>
+<area shape="rect" id="node3" href="$d3/d57/eval_8c_source.html" title=" " alt="" coords="88,95,144,121"/>
+<area shape="rect" id="node4" href="$df/d0a/io_8c_source.html" title=" " alt="" coords="168,95,211,121"/>
+<area shape="rect" id="node5" href="$d1/dce/io__buffer_8c_source.html" title=" " alt="" coords="235,95,320,121"/>
+<area shape="rect" id="node6" href="$d0/d85/process_8c_source.html" title=" " alt="" coords="345,95,423,121"/>
+<area shape="rect" id="node7" href="$dd/d6c/scheduler_8c_source.html" title=" " alt="" coords="448,95,539,121"/>
+<area shape="rect" id="node8" href="$d3/de7/thread_8c_source.html" title=" " alt="" coords="563,95,637,121"/>
+</map>
